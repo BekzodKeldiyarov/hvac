@@ -110,8 +110,8 @@
             dots: true,
             thumbs: true,
             thumbsPrerendered: true,
-            animateOut: 'slideOutDown',
-            animateIn: 'slideInDown'
+            animateOut: 'slideOutLeft',
+            animateIn: 'slideInRight'
         });
 
         /*** =====================================
